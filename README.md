@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Noor-ul-huda Kanwar
+Cybersecurity student based in Pakistan. 
 <!--
 **noorlhudakanwar/noorlhudakanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
